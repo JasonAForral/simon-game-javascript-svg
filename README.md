@@ -4,4 +4,9 @@
 
 Used 
 
-* React
+* SVG
+* Babel
+* Sass
+* Jade
+
+Turn on and press Start button to start.
